@@ -1,0 +1,41 @@
+body{
+    background-image: url(image.jpg);
+}
+
+
+
+h1{
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 50px;
+}
+
+
+p { 
+    text-align: justify; 
+    font-size: 15px; 
+    text-indent: 50px;
+    text-shadow: 1px 1px;
+}
+
+
+
+
+
+img{
+    width: 300px;
+    height: 300px;
+    justify-content: space-between;
+    padding-bottom: 30%;
+}
+
+a:visited{
+    color: green;
+}
+
+a:hover {
+    color: pink;
+}
+
+img {
+    border-radius: 8px;
+}
